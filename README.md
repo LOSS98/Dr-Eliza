@@ -1,5 +1,7 @@
 # TP ELIZA en Prolog - Réponses aux questions
-**Khalil MZOUGHI - 3A FISA INFO**
+**Khalil MZOUGHI - 3A FISA INFO**<br>
+**Disponible sur GitHub :**
+https://github.com/LOSS98/Dr-Eliza
 
 ELIZA est l'un des premiers programmes de type "ChatBot", un TALN (traitement du langage naturel) créé par J. Weizenbaum au MIT entre 1964 et 1966.
 
